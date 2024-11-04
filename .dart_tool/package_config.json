@@ -1,0 +1,15 @@
+{
+  "configVersion": 2,
+  "packages": [
+    {
+      "name": "shopping_Mall_app",
+      "rootUri": "../",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    }
+  ],
+  "generated": "2024-11-01T02:36:11.077655Z",
+  "generator": "pub",
+  "generatorVersion": "3.5.4",
+  "pubCache": "file:///Users/sunwoojin/.pub-cache"
+}
